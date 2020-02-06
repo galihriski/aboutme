@@ -373,9 +373,13 @@ body {
 }
 
 
+.transparent {
+    background-color: transparent !important;
+}
 
-
-
+.pad-0 {
+    padding: 0 !important;
+}
 
 .myH2 {
     text-align: center;
