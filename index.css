@@ -74,11 +74,13 @@ body {
 
 
 /* Home section */
+/* https://www.nationalgeographic.com/content/dam/photography/photos/000/515/51546.ngsversion.1518561145247.adapt.1900.1.jpg */
+/* https://images.unsplash.com/photo-1498550744921-75f79806b8a7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b0f6908fa5e81286213c7211276e6b3d&auto=format&fit=crop&w=1500&q=80 */
 
 .home {
     width: 100%;
     height: 100vh;
-    background-image: url(https://images.unsplash.com/photo-1498550744921-75f79806b8a7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b0f6908fa5e81286213c7211276e6b3d&auto=format&fit=crop&w=1500&q=80);
+    background-image: url(https://img5.goodfon.com/wallpaper/nbig/e/7f/sea-sky-sunset-pink-beach-more-nebo-zakat-pliazh.jpg);
     background-position: center top;
     background-size: cover;
 }
